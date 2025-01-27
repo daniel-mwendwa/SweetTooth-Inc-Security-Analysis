@@ -1,7 +1,5 @@
 # SweetTooth-Inc-Security-Analysis
 
-# SweetTooth Inc Security Analysis
-
 ## Overview
 This repository contains a comprehensive security analysis conducted on a simulated environment provided by the TryHackMe "SweetTooth" module. The exercise focuses on identifying vulnerabilities in an InfluxDB server, exploiting misconfigurations, and enhancing cybersecurity skills through ethical hacking practices.
 
@@ -26,4 +24,3 @@ Through this exercise, I gained hands-on experience in:
 3. Understanding vulnerabilities in web applications, databases, and containers.
 4. Applying mitigation strategies to address the identified weaknesses.
 
-## Folder Structure
