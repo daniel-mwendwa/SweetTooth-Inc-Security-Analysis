@@ -1,6 +1,6 @@
 # SweetTooth-Inc-Security-Analysis
 
-## Overview
+## Overview 
 This repository contains a comprehensive security analysis conducted on a simulated environment. The exercise focuses on identifying vulnerabilities in an InfluxDB server, exploiting misconfigurations, and enhancing cybersecurity skills through ethical hacking practices.
 
 ## Key Objectives 
