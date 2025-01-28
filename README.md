@@ -22,7 +22,7 @@ Through this exercise, I gained hands-on experience in:
 1. Identifying and exploiting insecure configurations.
 2. Using advanced querying techniques to retrieve sensitive information.
 3. Understanding vulnerabilities in web applications, databases, and containers.
-4. Applying mitigation strategies to address the identified weaknesses.
+4. Applying mitigation strategies to address the identified weaknesses. 
 
 ## Disclaimer
 This repository is for educational purposes only. The exercises conducted are in a controlled and simulated environment. Unauthorized hacking is illegal and unethical.
