@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a comprehensive security analysis conducted on a simulated environment. The exercise focuses on identifying vulnerabilities in an InfluxDB server, exploiting misconfigurations, and enhancing cybersecurity skills through ethical hacking practices.
 
-## Key Objectives
+## Key Objectives 
 - Perform reconnaissance on the target system using tools like `nmap`.
 - Exploit authentication mechanisms by generating and using JWT tokens.
 - Analyze database configurations and retrieve sensitive data.
