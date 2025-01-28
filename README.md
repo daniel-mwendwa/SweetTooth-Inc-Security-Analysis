@@ -6,7 +6,7 @@ This repository contains a comprehensive security analysis conducted on a simula
 ## Key Objectives 
 - Perform reconnaissance on the target system using tools like `nmap`.
 - Exploit authentication mechanisms by generating and using JWT tokens.
-- Analyze database configurations and retrieve sensitive data.
+- Analyze database configurations and retrieve sensitive data. 
 - Exploit vulnerabilities to gain system access, including creating reverse shells.
 - Conduct privilege escalation to access root files and escape Docker environments.
 
