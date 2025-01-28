@@ -13,7 +13,7 @@ This repository contains a comprehensive security analysis conducted on a simula
 ## Tools & Techniques
 - **Nmap**: For network scanning and service detection.
 - **JWT Tokens**: For authentication and authorization exploitation.
-- **Burp Suite & cURL**: For interacting with web services and APIs.
+- **Burp Suite & cURL**: For interacting with web services and APIs. 
 - **Netcat**: For reverse shell creation and interaction.
 - **Linux Commands**: For privilege escalation and database queries.
 
