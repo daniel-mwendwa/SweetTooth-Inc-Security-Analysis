@@ -8,7 +8,7 @@ This repository contains a comprehensive security analysis conducted on a simula
 - Exploit authentication mechanisms by generating and using JWT tokens.
 - Analyze database configurations and retrieve sensitive data. 
 - Exploit vulnerabilities to gain system access, including creating reverse shells.
-- Conduct privilege escalation to access root files and escape Docker environments.
+- Conduct privilege escalation to access root files and escape Docker environments. 
 
 ## Tools & Techniques
 - **Nmap**: For network scanning and service detection.
